@@ -78,7 +78,8 @@ WEBSITES = {
     "open agency portal": "https://sixalpsportal.vercel.app/staff",
     "open calculus corner": "https://www.calculuscorner.com",
     "open github": "https://github.com/Haseeb-997",
-    "open agency": "https://www.sixalps.com"
+    "open agency": "https://www.sixalps.com",
+    "open data science course" : "https://www.youtube.com/playlist?list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m"
 }
 
 # Command Processing
